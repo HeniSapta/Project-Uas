@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Documents\tugas1\UAS\pesanantiket\pesanantiket\bin\Debug\net6.0\pesanantiket.exe
+C:\Users\ASUS\OneDrive\Documents\tugas1\UAS\pesanantiket\pesanantiket\bin\Debug\net6.0\pesanantiket.deps.json
+C:\Users\ASUS\OneDrive\Documents\tugas1\UAS\pesanantiket\pesanantiket\bin\Debug\net6.0\pesanantiket.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Documents\tugas1\UAS\pesanantiket\pesanantiket\bin\Debug\net6.0\pesanantiket.dll
+C:\Users\ASUS\OneDrive\Documents\tugas1\UAS\pesanantiket\pesanantiket\bin\Debug\net6.0\pesanantiket.pdb
+C:\Users\ASUS\OneDrive\Documents\tugas1\UAS\pesanantiket\pesanantiket\obj\Debug\net6.0\pesanantiket.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Documents\tugas1\UAS\pesanantiket\pesanantiket\obj\Debug\net6.0\pesanantiket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Documents\tugas1\UAS\pesanantiket\pesanantiket\obj\Debug\net6.0\pesanantiket.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Documents\tugas1\UAS\pesanantiket\pesanantiket\obj\Debug\net6.0\pesanantiket.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Documents\tugas1\UAS\pesanantiket\pesanantiket\obj\Debug\net6.0\pesanantiket.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documents\tugas1\UAS\pesanantiket\pesanantiket\obj\Debug\net6.0\pesanantiket.dll
+C:\Users\ASUS\OneDrive\Documents\tugas1\UAS\pesanantiket\pesanantiket\obj\Debug\net6.0\refint\pesanantiket.dll
+C:\Users\ASUS\OneDrive\Documents\tugas1\UAS\pesanantiket\pesanantiket\obj\Debug\net6.0\pesanantiket.pdb
+C:\Users\ASUS\OneDrive\Documents\tugas1\UAS\pesanantiket\pesanantiket\obj\Debug\net6.0\pesanantiket.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Documents\tugas1\UAS\pesanantiket\pesanantiket\obj\Debug\net6.0\ref\pesanantiket.dll
